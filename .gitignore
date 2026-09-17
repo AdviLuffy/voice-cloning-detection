@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+dataset/raw/
+dataset/train/
+dataset/validation/
+dataset/test/
+
+uploads/
+*.wav
+*.flac
+*.mp3
+
+.vscode/
+.idea/
+.env
